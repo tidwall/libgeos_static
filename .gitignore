@@ -1,0 +1,5 @@
+build
+libgeos.tmp
+libgeos.dl
+libgeos
+*.gz
